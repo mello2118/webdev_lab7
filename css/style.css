@@ -10,14 +10,16 @@ body {
 td, th, table {
 	border: 5px solid gray;
   }
-tr.content td {
+.content td {
   font-size: 1.5em;
+  font-weight: 200;
+  text-align: center;
 }
 td.width{
   width: 500px;
   height: 50px;
   font-size: 2em;
-  font-weight: 200;
+  font-weight: 700;
   text-align: center;
 }
 tr.title {
