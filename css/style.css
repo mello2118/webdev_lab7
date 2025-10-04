@@ -9,4 +9,7 @@ body {
 td, th, table {
 	border: 5px solid gray;
   }
+.width td {
+  width: 100px;
+}
   
