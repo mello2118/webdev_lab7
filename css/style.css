@@ -10,7 +10,7 @@ body {
 td, th, table {
 	border: 5px solid gray;
   }
-.content tr {
+tr.content td {
   font-size: 1.5em;
 }
 td.width{
@@ -24,3 +24,4 @@ tr.title {
   width: 100px;
   height: 20px;
   font-size: 3em;
+}
