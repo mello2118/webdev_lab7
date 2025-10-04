@@ -14,14 +14,14 @@ td, th, table {
 .content tr {
   font-size: 1.5em;
 }
-.width td {
-  width: 100px;
-  height: 20px;
+td.width{
+  width: 500px;
+  height: 50px;
   font-size: 2em;
   font-weight: 200;
   text-align: center;
 }
-.title tr {
+tr.title {
   width: 100px;
   height: 20px;
-  font-size: 2em;
+  font-size: 3em;
