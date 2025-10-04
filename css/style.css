@@ -1,6 +1,7 @@
 body {
   background-color: black;
   color: white;
+  font-family: "Space Mono", monospace;
 }
 .header h1 {
   font-size: 6em;
